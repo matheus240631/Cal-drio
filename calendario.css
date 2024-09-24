@@ -111,21 +111,40 @@ caption {
   margin: 5px 0;
 }
 
-#set9{
+#set19{
   background-color: rgb(9, 255, 0);
 }
+
 #jan23{
-  background-color: rgb(255, 166, 0);
+  background-color: rgb(207,16,32);
 }
 #jul25{
-  background-color: rgb(0, 110, 255);
+  background-color: rgb(127,0,255);
 }
 #mai15{
   background-color: rgb(0, 195, 255);
 }
 #dez18{
-  background-color: rgb(255,215,0);
+  background-color: rgb(255,196,12);
 }
 #fev20{
-  background-color:  rgb(138,15,32);
+  background-color:  rgb(125,249,255);
 } 
+#jun27{
+  background-color: rgb(0,128,128);
+}
+#mar6{
+  background-color: rgb(228,132,0);
+}
+#nov13{
+  background-color: rgb(72,61,139);
+}
+#abr8{
+  background-color: rgb(50,74,178);
+}
+#ago10{
+  background-color: rgb(0,255,127);
+}
+#nov22{
+  background-color: rgb(47,132,124);
+}
